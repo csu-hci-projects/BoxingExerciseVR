@@ -8,5 +8,5 @@
 ### HARDWARE: Oculus Quest
 #### * Project Authors:
   * Alex Maghakian
-  * Tristin Blick
+  * Tristan Blick
   * Matt Aertker
