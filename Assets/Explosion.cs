@@ -34,9 +34,7 @@ public class Explosion : MonoBehaviour {
     private void OnTriggerEnter(Collider other) {
         if (other.gameObject.name == "DistanceGrabHandRight" || other.gameObject.name == "DistanceGrabHandLeft") {
             explode();
-			explode();
-			explode();
-			explode();
+			
 			
         }
 
