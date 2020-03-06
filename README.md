@@ -15,5 +15,5 @@
 * Proposal (Documents/Proposal.pdf)
 
 ## Checkpoint2
-* PDF Documents/BoxingExerciseVR.pdf)
-* Video(link here)
+* PDF (Documents/BoxingExerciseVR.pdf)
+* Video (link here)
