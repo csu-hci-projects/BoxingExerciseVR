@@ -16,4 +16,4 @@
 
 ## Checkpoint2
 * PDF (Documents/BoxingExerciseVR.pdf)
-* Video (link here)
+* Video (https://youtu.be/YMA-fXIWtKY)
