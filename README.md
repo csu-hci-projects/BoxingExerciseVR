@@ -19,6 +19,6 @@
 * Video (https://youtu.be/YMA-fXIWtKY)
 
 ## Checkpoint 3
-* Updated Propoal w/ COVID-19 changes (Documents/Proposal.pdf)
+* Updated Propoal w/ COVID-19 changes (Documents/UpdatedProposal.pdf)
 * Updated Final Paper w/ COVID-19 changes (Documents/BoxingExerciseVR.pdf)
 * Video ()
