@@ -10,3 +10,15 @@
   * Alex Maghakian
   * Tristan Blick
   * Matt Aertker
+
+## Checkpoint1
+* Proposal (Documents/Proposal.pdf)
+
+## Checkpoint2
+* PDF (Documents/BoxingExerciseVR.pdf)
+* Video (https://youtu.be/YMA-fXIWtKY)
+
+## Checkpoint 3
+* Updated Propoal w/ COVID-19 changes (Documents/UpdatedProposal.pdf)
+* Updated Final Paper w/ COVID-19 changes (Documents/BoxingExerciseVR.pdf)
+* Video ()
