@@ -27,7 +27,7 @@ public class PushCubes : MonoBehaviour
         //if(GameObject.Find("Cube2")){
         //yield WaitForSeconds (0.25);
         //StartCoroutine(yieldcube(2));
-        rb.AddForce((transform.forward * -1) * 2.5f);
+        //rb.AddForce((transform.forward * -1) * 2.5f);
        // }
     }
     // IEnumerator yieldcube(float duration) {

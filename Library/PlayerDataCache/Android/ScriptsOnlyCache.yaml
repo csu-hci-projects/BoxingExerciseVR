@@ -7,6 +7,7 @@ ScriptsOnlyBuild:
     - OVRTouchSample.HandPose
     - OculusSampleFramework.DistanceGrabber
     - PushCubes
+    - spawner
     Oculus.VR.Editor.dll:
     - OVRConfig
     Oculus.VR.dll:
@@ -50,8 +51,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
-    - Class: 89
-      Script: {instanceID: 0}
     - Class: 90
       Script: {instanceID: 0}
     - Class: 91
@@ -71,27 +70,29 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10396}
     - Class: 114
-      Script: {instanceID: 10742}
+      Script: {instanceID: 10580}
     - Class: 114
-      Script: {instanceID: 10786}
+      Script: {instanceID: 10744}
     - Class: 114
-      Script: {instanceID: 10860}
+      Script: {instanceID: 10788}
     - Class: 114
-      Script: {instanceID: 10966}
+      Script: {instanceID: 10862}
     - Class: 114
-      Script: {instanceID: 11106}
+      Script: {instanceID: 10968}
     - Class: 114
-      Script: {instanceID: 11216}
+      Script: {instanceID: 11108}
     - Class: 114
-      Script: {instanceID: 11226}
+      Script: {instanceID: 11218}
     - Class: 114
-      Script: {instanceID: 11370}
+      Script: {instanceID: 11228}
     - Class: 114
-      Script: {instanceID: 11792}
+      Script: {instanceID: 11372}
     - Class: 114
-      Script: {instanceID: 12188}
+      Script: {instanceID: 11794}
     - Class: 114
-      Script: {instanceID: 12236}
+      Script: {instanceID: 12190}
+    - Class: 114
+      Script: {instanceID: 12238}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 136
@@ -101,8 +102,6 @@ ScriptsOnlyBuild:
     - Class: 143
       Script: {instanceID: 0}
     - Class: 157
-      Script: {instanceID: 0}
-    - Class: 258
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -537,6 +536,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: UnityStandardAssets.ImageEffects
     className: MotionBlur
+  - hash:
+      serializedVersion: 2
+      Hash: a6e955070b09eb6e65fc644e8f8af789
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: spawner
   - hash:
       serializedVersion: 2
       Hash: 4e9333594897a1fb8b136ad2eae996c7
