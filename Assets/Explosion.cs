@@ -18,7 +18,6 @@ public class Explosion : MonoBehaviour {
     // Use this for initialization
     void Start() {
 
-        
         //calculate pivot distance
         cubesPivotDistance = cubeSize * cubesInRow / 2;
         //use this value to create pivot vector)
@@ -70,7 +69,7 @@ public class Explosion : MonoBehaviour {
     }
 
     void createPiece(int x, int y, int z) {
-
+        
         //create piece
         GameObject piece;
         piece = GameObject.CreatePrimitive(PrimitiveType.Cube);
