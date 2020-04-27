@@ -538,7 +538,7 @@ ScriptsOnlyBuild:
     className: MotionBlur
   - hash:
       serializedVersion: 2
-      Hash: a6e955070b09eb6e65fc644e8f8af789
+      Hash: 1f75972edbb5787f66936028a69fa04d
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: spawner
@@ -1874,6 +1874,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: bb8814741d7085ebb3d19a1a11769619
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Destroy
   platform: 13
   scenePathNames:
   - Assets/Scenes/SampleScene.unity

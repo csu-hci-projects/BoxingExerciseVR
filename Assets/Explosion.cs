@@ -13,7 +13,7 @@ public class Explosion : MonoBehaviour {
 
     public float explosionForce = 50f;
     public float explosionRadius = 4f;
-    public float explosionUpward = 0.4f;
+    public float explosionUpward = 5f;
 
     // Use this for initialization
     void Start() {
@@ -63,6 +63,7 @@ public class Explosion : MonoBehaviour {
             if (rb != null) {
                 //add explosion force to this body with given parameters
                 rb.AddExplosionForce(explosionForce, transform.position, explosionRadius, explosionUpward);
+                rb.AddForce((transform.forward * -1) * -10.5f);
             }
         }
 
@@ -73,7 +74,8 @@ public class Explosion : MonoBehaviour {
         //create piece
         GameObject piece;
         piece = GameObject.CreatePrimitive(PrimitiveType.Cube);
-
+        //piece.collider.enable = false;
+       // piece.GetComponent(BoxCollider) = false;
         //set piece position and scale
         piece.transform.position = transform.position + new Vector3(cubeSize * x, cubeSize * y, cubeSize * z) - cubesPivot;
         piece.transform.localScale = new Vector3(cubeSize, cubeSize, cubeSize);
