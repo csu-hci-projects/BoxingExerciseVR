@@ -36,3 +36,6 @@
 ## Checkpoint 4
 * Video (https://youtu.be/5Efr-klonE4)
 
+## Checkpoint 5
+* Video (https://youtu.be/5SWqXM46VEM)
+
