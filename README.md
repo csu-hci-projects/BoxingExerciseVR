@@ -37,5 +37,8 @@
 * Video (https://youtu.be/5Efr-klonE4)
 
 ## Checkpoint 5
-* Video (https://youtu.be/5SWqXM46VEM)
+* Final PDF ()
+* Website ()
+* Short Video (https://youtu.be/5SWqXM46VEM)
+* Presentation Video ()
 
