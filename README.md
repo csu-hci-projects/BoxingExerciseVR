@@ -37,8 +37,8 @@
 * Video (https://youtu.be/5Efr-klonE4)
 
 ## Checkpoint 5
-* Final PDF ()
-* Website ()
+* Final PDF (Documents/BoxingExerciseVR_FinalPaper.pdf)
+* Website (https://www.cs.colostate.edu/~maertker/#/)
 * Short Video (https://youtu.be/5SWqXM46VEM)
 * Presentation Video ()
 
